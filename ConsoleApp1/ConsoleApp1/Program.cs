@@ -7,4 +7,5 @@
         {
           Console.WriteLine("zap here updates second check");
         }
+        Console.ReadKey();
     }
